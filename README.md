@@ -9,6 +9,10 @@ A free and open source .NET NuGet package to facilitate sending OTP messages thr
 - Secure and reliable delivery.
 - Lightweight and efficient.
 
+## Sample .NET Api project using this nuget package
+
+WhatsApp Api Otp Demo Git Repository - https://github.com/evotechcraft/WhatsApp.Api.Demo
+
 ## Installation
 
 To install the package, use the NuGet Package Manager Console:
@@ -102,3 +106,7 @@ contact mail: sales@evotechcraft.com.
 
 ## Changelog
 Make sure to check the CHANGELOG for any updates or changes.
+
+***
+
+I made minor adjustments to clarify instructions, improved readability, and formatted code examples for consistency. Let me know if you need further refinement!
