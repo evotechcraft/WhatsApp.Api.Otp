@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<Nullable>enable</Nullable>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		
+		<AssemblyVersion>1.0.0.0</AssemblyVersion>
+		<FileVersion>1.0.0.0</FileVersion>
+		<VersionPrefix>1.0.0.0</VersionPrefix>
+		<Authors>EvoTechCraft</Authors>
+		<Company>EvoTechCraft</Company>
+		<Product>WhatsApp API OTP</Product>
+		<Description>WhatsApp API Otp Package for .NET</Description>
+		<Summary>WhatsApp API Otp Package for .NET</Summary>
+		<NeutralLanguage>en-US</NeutralLanguage>
+		<Title>WhatsApp.Api.Otp</Title>
+		<PackageId>WhatsApp.Api.Otp</PackageId>
+		<PackageTags>WhatsApp Api Otp;WhatsApp;WhatsApp Api;Otp;WhatsApp Otp</PackageTags>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<IncludeSymbols>true</IncludeSymbols>
+		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="..\LICENSE.txt" Pack="true" PackagePath="LICENSE.txt" />
+		<None Include="..\README.md" Pack="true" PackagePath="README.md" />
+	</ItemGroup>
+	
+	<ItemGroup>
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="Refit.HttpClientFactory" Version="7.1.2" />
+		<PackageReference Include="Serilog.AspNetCore" Version="8.0.1" />
+		<PackageReference Include="Refit" Version="7.1.2" />
+		<PackageReference Include="Refit.Newtonsoft.Json" Version="7.1.2" />
+	</ItemGroup>
+
+</Project>
