@@ -102,7 +102,7 @@ public class OtpMessageModel
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Support
-contact mail: sales@evotechcraft.com.
+contact mail: support@evotechcraft.com.
 
 ## Changelog
 Make sure to check the CHANGELOG for any updates or changes.
