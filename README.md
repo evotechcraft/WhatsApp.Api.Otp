@@ -2,6 +2,12 @@
 
 A free and open source .NET NuGet package to facilitate sending OTP messages through WhatsApp Business APIs. This package provides a simple and efficient way to deliver OTP messages, ensuring they reach your users swiftly and securely.
 
+## Hire Us
+Contact Email - contact@evotechcraft.com
+
+## Free Support
+Support mail: support@evotechcraft.com
+
 ## Features
 
 - Easy integration with WhatsApp Business APIs.
@@ -101,12 +107,12 @@ public class OtpMessageModel
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Support
-contact mail: support@evotechcraft.com.
+## Issues
 
-## Changelog
-Make sure to check the CHANGELOG for any updates or changes.
+If you will face any issues with the usage of this package please raise one so that we can quickly fix it as soon as possible.
 
-***
+## Contributing
 
-I made minor adjustments to clarify instructions, improved readability, and formatted code examples for consistency. Let me know if you need further refinement!
+This is an open-source project under ```MIT License``` so anyone is welcome to contribute from typos, to source code to documentation.
+
+

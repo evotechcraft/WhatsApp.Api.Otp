@@ -23,6 +23,8 @@
 		<IncludeSymbols>true</IncludeSymbols>
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageProjectUrl>https://github.com/evotechcraft/WhatsApp.Api.Otp</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/evotechcraft/WhatsApp.Api.Otp</RepositoryUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
