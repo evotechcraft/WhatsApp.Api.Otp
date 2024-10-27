@@ -5,9 +5,9 @@
 		<Nullable>enable</Nullable>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		
-		<AssemblyVersion>1.0.0.0</AssemblyVersion>
-		<FileVersion>1.0.0.0</FileVersion>
-		<VersionPrefix>1.0.0.0</VersionPrefix>
+		<AssemblyVersion>1.0.1.0</AssemblyVersion>
+		<FileVersion>1.0.1.0</FileVersion>
+		<VersionPrefix>1.0.1.0</VersionPrefix>
 		<Authors>EvoTechCraft</Authors>
 		<Company>EvoTechCraft</Company>
 		<Product>WhatsApp API OTP</Product>
